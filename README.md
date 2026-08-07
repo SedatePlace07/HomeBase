@@ -589,6 +589,4 @@ Every dollar goes directly toward keeping the bot running reliably for your hous
 
 ## License
 
-This project is licensed under the **PolyForm Noncommercial License 1.0.0**. You may use, modify, and distribute this software for noncommercial purposes only. Any commercial use is prohibited without explicit permission from the author.
-
-See the `LICENSE` file for full terms.
+This project is licensed under the **MIT License**. You may use, modify, and distribute this software under the terms contained in the `LICENSE` file.

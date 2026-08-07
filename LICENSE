@@ -1,78 +1,21 @@
-PolyForm Noncommercial License 1.0.0
+MIT License
 
-<https://polyformproject.org/licenses/noncommercial/1.0.0>
+Copyright (c) 2026
 
-## Acceptance
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-In order to get any license to these terms, you must agree to them as both strict
-obligations and conditions to all other licenses granted to you in these terms.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-## Copyright
-
-The licensor retains all right, title, and interest in any work licensed under
-these terms.
-
-## Permitted Uses
-
-If the Noncommercial Purposes definition in these terms does not describe a use,
-and you do not have another license from the licensor, you may not make that use
-of the work.
-
-## Noncommercial Purposes
-
-**Noncommercial Purposes** means purposes other than for-profit purposes. **Purposes** includes research, education, personal projects, and any other use that is not primarily intended for or directed towards commercial advantage or monetary compensation.
-
-Specifically prohibited uses include, but are not limited to:
-
-- Providing the work to others as a service for a fee
-- Selling access to the work
-- Hosting the work for commercial purposes
-- Using the work in a commercial product or service
-- Using the work to generate revenue directly or indirectly
-
-## No Other Rights
-
-These terms do not permit you to sublicense, sell, rent, lease, transfer, assign,
-or otherwise dispose of any copy of any work licensed under these terms.
-
-These terms do not permit you to make any use of any work licensed under these
-terms that competes with the interests of the licensor.
-
-## Disclaimers
-
-**As far as the law allows, each work licensed under these terms is provided as
-is, without any warranty or condition, express, implied, statutory, or otherwise.**
-
-## Limits on Liability
-
-**As far as the law allows, you may not hold the licensor liable for anything
-relating to any work licensed under these terms, on any legal basis. That
-liability exclusion applies even if the licensor has been told of the possibility
-of the liability.**
-
-## Patent Defense
-
-If you make any written claim that a work licensed under these terms infringes or
-contributes to infringement of any patent, your patent licenses for any work
-licensed under these terms granted by the licensor end right away.
-
-## Termination
-
-If you do not comply with the obligations of these terms, or if you do anything
-with any work licensed under these terms only as permitted by these terms, then
-your licenses under these terms end right away.
-
-## No Delegation
-
-None of these terms allow you to authorize anyone else to exercise rights only
-allowed to you personally.
-
-## No Other Conditions
-
-These terms do not require anyone accepting them to surrender any of their rights
-to any patent claims they may have about any work licensed under these terms.
-
-## Interpretation
-
-If any part of these terms is unenforceable, the rest of these terms continue in
-full force and effect.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
